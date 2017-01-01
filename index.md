@@ -9,26 +9,23 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 
 ### Education
 
-Bachelor of Computer Science and Technology, Nanjing University of Aeronau- tics and Astronautics, Nanjing, 7/122.
-Undergraduate Achievement Award Nomination 22/4774
-Master of Computer Science and Technology, Nanjing University, Nanjing. Supervisor: Prof. Alex X. Liu. and A.P. Wei Wang
+- Bachelor of Computer Science and Technology, Nanjing University of Aeronau- tics and Astronautics, Nanjing, 7/122.Undergraduate Achievement Award Nomination 22/4774
+- Master of Computer Science and Technology, Nanjing University, Nanjing. Supervisor: Prof. Alex X. Liu. and A.P. Wei Wang
 
 ### Honors
-2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, 22/4774
-2015 CCF(China Computer Federation) Outstanding Undergraduate Award, 100 undergraduates in Chinese university annually
-2015 NUAA(Nanjing University of Aeronautics and Astronautics) Principal Award, 10 undergraduates in NUAA annually
-2015 China National Aero-Technology Import & Export Scholarship
-2014 China National Scholarship
-2013 Fei Xiaotong Scholarship
+- 2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, 22/4774
+- 2015 CCF(China Computer Federation) Outstanding Undergraduate Award, 100 undergraduates in Chinese university annually
+- 2015 NUAA(Nanjing University of Aeronautics and Astronautics) Principal Award, 10 undergraduates in NUAA annually
+- 2015 China National Aero-Technology Import & Export Scholarship
+- 2014 China National Scholarship
+- 2013 Fei Xiaotong Scholarship
 
 ### Awards
-2015 ACM-ICPC Asia Regional Contest(Chang Chun Site),October 2015, Gold Medal
-2015 ACM-ICPC China Shanghai Metropolitan Programming Contest,May 2015, Silver Medal
-2013 ACM-ICPC China TongHua Invitational Programming Contest,May 2013, Silver Medal
-The Fifth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(Java Goup),June 2014,
-Finals Second Prize.
-The Fourth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(C/C++ Goup),July 2013,
-Finals Second Prize.
+- 2015 ACM-ICPC Asia Regional Contest(Chang Chun Site),October 2015, Gold Medal
+- 2015 ACM-ICPC China Shanghai Metropolitan Programming Contest,May 2015, Silver Medal
+- 2013 ACM-ICPC China TongHua Invitational Programming Contest,May 2013, Silver Medal
+- The Fifth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(Java Goup),June 2014, Finals Second Prize.
+- The Fourth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(C/C++ Goup),July 2013, Finals Second Prize.
 
 ```markdown
 Syntax highlighted code block
