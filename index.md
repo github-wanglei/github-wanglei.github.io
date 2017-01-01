@@ -1,10 +1,8 @@
 Master student,     
-
 [Department of Computer Science,Nanjing University](http://cs.nju.edu.cn/),    
 Room 326, CS building,   
 Address:No.163 Xianlin Avenue Nanjing China,    
-E-mail:samsonsunke@gmail.com    
-Nanjing University    
+E-mail:samsonsunke@gmail.com      
 
 # News
 
