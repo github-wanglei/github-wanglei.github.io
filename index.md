@@ -3,19 +3,19 @@ Address:Room 327, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023
 E-mail:samsonsunke@gmail.com      
 
 # News
-November 2016
+**November 2016**
 
 Our ultrasound work has been reported by MIT Technology Review: ["This App Lets You Control Your Phone Using Sonar"](https://www.technologyreview.com/s/602834/this-app-lets-you-control-your-phone-using-sonar/).      
 ![llapfly](https://github.com/Samsonsjarkal/KeSun/blob/master/img/llapfly.gif?raw=true)
 
 
-September 2016
+**September 2016**
 
 I have become a Master student in Nanjing university.
 
-July 2016
+**July 2016**
 
-Our ultrasound based gesture recognition paper has been accepted by MobiCom 2016.
+Our ultrasound based gesture recognition paper has been accepted by **MobiCom 2016**.
 Check the [Demo Video](https://www.youtube.com/watch?v=gs8wMrOSY80).
 
 
