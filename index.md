@@ -23,11 +23,11 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 - 2013 Fei Xiaotong Scholarship
 
 ### Awards
-- 2015 ACM-ICPC Asia Regional Contest(Chang Chun Site),October 2015, Gold Medal
-- 2015 ACM-ICPC China Shanghai Metropolitan Programming Contest,May 2015, Silver Medal
-- 2013 ACM-ICPC China TongHua Invitational Programming Contest,May 2013, Silver Medal
-- The Fifth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(Java Goup),June 2014, Finals Second Prize.
-- The Fourth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(C/C++ Goup),July 2013, Finals Second Prize.
+- 2015 ACM-ICPC Asia Regional Contest(Chang Chun Site),October 2015, **Gold Medal**
+- 2015 ACM-ICPC China Shanghai Metropolitan Programming Contest,May 2015, **Silver Medal**
+- 2013 ACM-ICPC China TongHua Invitational Programming Contest,May 2013, **Silver Medal**
+- The Fifth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(Java Goup),June 2014, **Finals Second Prize**.
+- The Fourth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(C/C++ Goup),July 2013, **Finals Second Prize**.
 
 
 ```markdown
