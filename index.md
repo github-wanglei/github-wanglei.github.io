@@ -13,9 +13,6 @@ Bachelor of Computer Science and Technology, Nanjing University of Aeronau- tics
 Undergraduate Achievement Award Nomination 22/4774
 Master of Computer Science and Technology, Nanjing University, Nanjing. Supervisor: Prof. Alex X. Liu. and A.P. Wei Wang
 
-```markdown
-Syntax highlighted code block
-
 ### Honors
 2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, 22/4774
 2015 CCF(China Computer Federation) Outstanding Undergraduate Award, 100 undergraduates in Chinese university annually
@@ -33,6 +30,8 @@ Finals Second Prize.
 The Fourth China National Professional Software Engineering "Lan Qiao Cup" Design Contest(C/C++ Goup),July 2013,
 Finals Second Prize.
 
+```markdown
+Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
