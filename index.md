@@ -6,7 +6,7 @@ E-mail:samsonsunke@gmail.com
 November 2016
 
 Our ultrasound work has been reported by MIT Technology Review: ["This App Lets You Control Your Phone Using Sonar"](https://www.technologyreview.com/s/602834/this-app-lets-you-control-your-phone-using-sonar/).
-![haha](https://github.com/Samsonsjarkal/KeSun/blob/master/img/llapfly1.jpg)
+![llapfly](https://github.com/Samsonsjarkal/KeSun/blob/master/img/llapfly1.jpg)
 
 # Biography
 
