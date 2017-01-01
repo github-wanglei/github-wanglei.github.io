@@ -1,10 +1,10 @@
+### News
+
 ### Biography
 
 I received my B.Sc. degree in Computer Science and Technology from  of Aeronautics and Astronautics in 2016. Currently I’m a 1st-year Master student in Alex X. Liu’s Group from Nanjing University, under the supervision of Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/).
 
-### Research InterestNanjing University
-
-
+### Research Interest
 My research interests mainly include Wireless Network and Mobile Computing. I’m also interested in Human Computer Interaction and Wireless Baseband Signal Processing.
 
 ### Education
@@ -12,7 +12,7 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 - **Bachelor of Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics, Nanjing, 7/122.
   - Undergraduate Achievement Award Nomination 22/4774
 - **Master of Computer Science and Technology**, Nanjing University, Nanjing. 
-  - Supervisor: Prof. Alex X. Liu. and A.P. Wei Wang
+  - Supervisor: Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/)
 
 ### Honors
 - 2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, **22/4774**
