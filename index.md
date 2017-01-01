@@ -1,10 +1,11 @@
-Master student,     
-[Department of Computer Science,Nanjing University](http://cs.nju.edu.cn/),    
-Room 326, CS building,   
-Address:No.163 Xianlin Avenue Nanjing China,    
+Master student,[Department of Computer Science,Nanjing University](http://cs.nju.edu.cn/)      
+Address:Room 327, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023      
 E-mail:samsonsunke@gmail.com      
 
 # News
+November 2016
+
+Our ultrasound work has been reported by MIT Technology Review: ["This App Lets You Control Your Phone Using Sonar"](https://www.technologyreview.com/s/602834/this-app-lets-you-control-your-phone-using-sonar/).
 
 # Biography
 
@@ -15,9 +16,9 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 
 # Education
 
-- **Bachelor of Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics, Nanjing, 7/122.
+- 2012~2016  **Bachelor of Computer Science and Technology**, Nanjing University of Aeronautics and Astronautics, Nanjing, 7/122.
   - Undergraduate Achievement Award Nomination 22/4774
-- **Master of Computer Science and Technology**, Nanjing University, Nanjing. 
+- 2016~2017  **Master of Computer Science and Technology**, Nanjing University, Nanjing. 
   - Supervisor: Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/)
 
 # Publication
