@@ -1,3 +1,11 @@
+* Master student, 
+* Department of Computer Science,
+* Nanjing University,
+* Room 326, CS building,
+* No.163 Xianlin Avenue Nanjing China,   
+* samsonsunke@gmail.com 
+* Nanjing University
+
 # News
 
 # Biography
@@ -30,8 +38,8 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 
 # Honors
 - 2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, **22/4774**
-- 2015 CCF(China Computer Federation) Outstanding Undergraduate Award, **100 out of all of Chinese university undergraduates in Computer Science**
-- 2015 NUAA(Nanjing University of Aeronautics and Astronautics) Principal Award, **10 undergraduates out of  NUAA annually**
+- 2015 CCF(China Computer Federation) Outstanding Undergraduate Award, **100 out of all of Chinese university undergraduates in Computer Science annually**
+- 2015 NUAA(Nanjing University of Aeronautics and Astronautics) Principal Award, **10 out of NUAA undergraduates annually**
 - 2015 China National Aero-Technology Import & Export Scholarship
 - 2014 China National Scholarship
 - 2013 Fei Xiaotong Scholarship
