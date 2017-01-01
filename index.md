@@ -1,6 +1,6 @@
 ### Biography
 
-I received my B.Sc. degree in Computer Science and Technology from Nanjing University of Aeronautics and Astronautics in 2016. Currently I’m a 1st-year Master student in Alex X. Liu’s Group from Nanjing University, under the supervision of Prof. Alex X. Liu and A.P. Wei Wang.
+I received my B.Sc. degree in Computer Science and Technology from Nanjing University of Aeronautics and Astronautics in 2016. Currently I’m a 1st-year Master student in Alex X. Liu’s Group from Nanjing University, under the supervision of Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/).
 
 ### Research Interest
 
