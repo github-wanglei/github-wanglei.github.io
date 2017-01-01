@@ -2,7 +2,7 @@
 
 ## Biography
 
-I received my B.Sc. degree in Computer Science and Technology from  of Aeronautics and Astronautics in 2016. Currently I’m a 1st-year Master student in Alex X. Liu’s Group from Nanjing University, under the supervision of Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/).
+I received my B.Sc. degree in Computer Science and Technology from of Aeronautics and Astronautics in 2016. Currently I’m a 1st-year Master student in Alex X. Liu’s Group from Nanjing University, under the supervision of Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/).
 
 ## Research Interest
 My research interests mainly include Wireless Network and Mobile Computing. I’m also interested in Human Computer Interaction and Wireless Baseband Signal Processing.
@@ -15,7 +15,9 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
   - Supervisor: Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/)
 
 ## Publication
+
 ### Conference
+
 1. Alex X. Liu Wei Wang and **Ke Sun**. Device-free gesture tracking using acoustic signals. In proceedings of ACM MobiCom 2016, October 2016. Acceptance rate: 32/226 = 14.2%.
 
 ## Honors
