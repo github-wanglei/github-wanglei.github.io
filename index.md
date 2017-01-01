@@ -18,7 +18,15 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 
 ## Conference
 
-1. Alex X. Liu Wei Wang and **Ke Sun**. Device-free gesture tracking using acoustic signals. In proceedings of ACM MobiCom 2016, October 2016. Acceptance rate: 32/226 = 14.2%.
+1. Device-Free Gesture Tracking Using Acoustic Signals  
+  - Wei Wang, Alex X. Liu, and **Ke Sun** 
+  - **ACM MobiCom**, Oct 2016, Acceptance rate: 32/226 = 14.2%.
+
+## Demo/Poster
+
+1. Demo:Device-free Gesture Tracking Using Acoustic Signals. 
+  - Wei Wang, Alex X. Liu, and **Ke Sun** 
+  - **ACM MobiCom**, Oct 2016
 
 # Honors
 - 2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, **22/4774**
