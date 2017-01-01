@@ -8,6 +8,16 @@ November 2016
 Our ultrasound work has been reported by MIT Technology Review: ["This App Lets You Control Your Phone Using Sonar"](https://www.technologyreview.com/s/602834/this-app-lets-you-control-your-phone-using-sonar/).      
 ![llapfly](https://d267cvn3rvuq91.cloudfront.net/i/images/echolcate3.gif?sw=560)
 
+September 2016
+
+I have become a Master student in Nanjing university.
+
+July 2016
+
+Our ultrasound based gesture recognition paper has been accepted by MobiCom 2016.
+Check the [Demo Video](https://www.youtube.com/watch?v=gs8wMrOSY80).
+
+
 # Biography
 
 I received my B.Sc. degree in Computer Science and Technology from of Aeronautics and Astronautics in 2016. Currently I’m a 1st-year Master student in Alex X. Liu’s Group from Nanjing University, under the supervision of Prof. [Alex X. Liu](http://www.cse.msu.edu/~alexliu/home.html) and A.P. [Wei Wang](http://cs.nju.edu.cn/ww/).
