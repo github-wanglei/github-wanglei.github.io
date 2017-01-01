@@ -9,10 +9,10 @@ My research interests mainly include Wireless Network and Mobile Computing. I’
 
 ### Education
 
-- *Bachelor of Computer Science and Technology*, Nanjing University of Aeronau- tics and Astronautics, Nanjing, 7/122.
- - Undergraduate Achievement Award Nomination 22/4774
-- *Master of Computer Science and Technology*, Nanjing University, Nanjing. 
- - Supervisor: Prof. Alex X. Liu. and A.P. Wei Wang
+- **Bachelor of Computer Science and Technology**, Nanjing University of Aeronau- tics and Astronautics, Nanjing, 7/122.
+  - Undergraduate Achievement Award Nomination 22/4774
+- **Master of Computer Science and Technology**, Nanjing University, Nanjing. 
+  - Supervisor: Prof. Alex X. Liu. and A.P. Wei Wang
 
 ### Honors
 - 2016 NUAA(Nanjing University of Aeronautics and Astronautics) Undergraduate Achievement Award Nomination, 22/4774
