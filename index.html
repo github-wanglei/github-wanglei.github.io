@@ -3,14 +3,17 @@
 <html>
 
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
   <meta charset="htf-8">
-
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+  <link href="ccs/theme.css" rel="stylesheet">
+  <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+  <script src="assets/js/ie-emulation-modes-warning.js"></script>
 
   <title> Ke Sun </title>
 </head>
@@ -19,26 +22,33 @@
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.min.js"></script>
 
-  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <a class="navbar-brand active" href="#">Ke Sun</a>
+  <div class="container">
+
+  <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Ke Sun</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Education</a></li>
+            <li><a href="#">Research</a></li>
+            <li><a href="#">Honors</a></li>
+            <li><a href="#">Awards</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
       </div>
-    <div>
-    <ul class="nav navbar-nav">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#research">Research</a></li>
-        <li><a href="#honors">Honors</a></li>
-        <li><a href="#awards">Awards</a></li>
-    </ul>
-</nav>
-  <div class="container theme-showcase" role="main" height="300">
-      <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="col-md-8">
-        <br>
-        <br>
-        <br>
+  </nav>
+
+    <div class="row">
+      <div class="col-xs-8">
         <h2>Ke Sun</h2>
         <p><i class="fa fa-graduation-cap"></i>  Master student, <a herf="https://cs.nju.edu.cn">Department of Computer Science, Nanjing University</a></p>
         <p><i class="fa fa-home"></i>  Room 327, CS building, No.163 Xianlin Avenue, Nanjing, China, 210023 </p>
@@ -46,24 +56,20 @@
         <p><i class="fa fa-envelope-o"></i>  <a href="mailto:samsonsunke@google.com">samsonsunke@google.com</a></p>
         <p><i class="fa fa-github"></i> <a herf="https://github.com/Samsonsjarkal">  Samsonsjarkal</a></p>
       </div>
-      <div class="col-md-push-2" height="300">
-        <br>
-        <br>
-        <br>
-        <br>
+      <div class="col-xs-2">
         <img src="img/kesun.png"  alt="Personal photo"  height="150"/>
       </div>
+    </div>
 
       <div class="col-md-12 page-header" id="biography">
-        <h2>Biography</h2>
+        <h2 style="text-align:left">Biography</h2>
       </div>
-      <br>
-      <br>
       <div class="col-md-8">
-        I received my B.Sc. degree in Computer Science from Nanjing University of Aeronautics and Astronautics in 2016.
+        <p>I received my B.Sc. degree in Computer Science from Nanjing University of Aeronautics and Astronautics in 2016.
         During my undergraduate years, I participated in the ACM International Collegiate Programming Contest (ACM/ICPC) and received gold medal in 40th ACM-ICPC Asian Regional Contest.
         Currently I am a 2nd-year Master student from department of Computer Science in Nanjing University, under the supervision of <a herf="https://cs.nju.edu.cn/ww/"> A.P. Wei Wang </a>.
-        My research interests mainly include Wireless Sensing and Mobile Computing. I am also interested in Human Computer Interaction.
+        <br>
+        My research interests mainly include Wireless Sensing and Mobile Computing. Now I focus on the novel Human Computer Interaction system based on acoustic signal.</p>
       </div>
       <div class="col-md-12 page-header" id="news">
         <h2>News</h2>
@@ -71,12 +77,23 @@
       <li class="col-md-8"> <h5>November 2016</h5>
       Our ultrasound work has been reported by MIT Technology Review: <a href="https://www.technologyreview.com/s/602834/this-app-lets-you-control-your-phone-using-sonar/"> This App Lets You Control Your Phone Using Sonar"</a>.</li>
 
+      <div class="col-md-2" height="300">
+        <img src="img/llapfly.gif"  alt="llapfly"  height="150"/>
+      </div>
       <li class="col-md-8"> <h5>July 2016</h5>
 
       Our paper and demo "Device-free gesture tracking using acoustic signals" has been accepted by MobiCom 2016 (acceptance rate: 14.2%). Check our <a href="https://www.youtube.com/watch?v=gs8wMrOSY80"> Demo Video.</a></li>
-
   </div>
 
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 
 </html>
