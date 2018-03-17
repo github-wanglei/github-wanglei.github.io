@@ -1,7 +1,9 @@
 body {
-  padding-top: 70px;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
+  min-height: 2000px;
+/*  position:relative;*/
 }
+
 
 .theme-dropdown .dropdown-menu {
   position: static;
@@ -16,3 +18,41 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+.pub-strong {
+	color: #e74c3c;
+	font-weight: bold;
+}
+
+.pub-award {
+	color: #008000;
+}
+
+
+.pub-authors {
+	/*padding-left:10px;*/
+	/*padding-right:10px;*/
+	/*font-size:90%;*/
+}
+
+.label-wireless {
+	margin-left:5px;
+    background-color: #f0ad4e;
+}
+
+.label-mobile {
+	margin-left:5px;
+    background-color: #5cb85c;
+}
+
+.label-algorithm {
+	margin-left:5px;
+    background-color: #0275d8;
+}
+
+
+.label-misc {
+	margin-left:5px;
+    background-color: #555555;
+}
+
