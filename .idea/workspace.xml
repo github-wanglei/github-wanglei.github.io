@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e20d9f0-7471-455d-a1f0-9f263c373e0e" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/files/EgoADL.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ICPP18_CHATS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/IPSN21_ExGSense.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/MicShield_SenSys20_slide.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/infocom20_SpiderMon.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/infocom20_dsw.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/kesun_cv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom16_llapdemo.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom16_ultrasound.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom16_ultrasound_slides.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom18_vskin.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom18_vskin_slides.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom21_UltraSE.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobicom21_ultrase.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobisys18_ARTyping.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/mobisys18_ARTyping_slides.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ndss23_StealthyIMU.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ndss23_StealthyIMU.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/sensys20_captagposter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/sensys20_micShield.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/sensys20_milliego.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/tmc23_scalar.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ubicomp18_heartbeat_slides.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ARtype.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ARtype.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/SpinderMon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cardbox.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cardbox.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dsw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/egoadl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/exgsense.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/haste.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/heartrate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/heartrate_interface.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icpc.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kesun.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kesun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/llapfly.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/magmaw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/micshield.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/milliego.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/nju.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/nuaa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photo_KeSun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/photo_KeSun_UMich.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/president.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/rf_canvas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/scrolling.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/stealthyimu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/swiping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tapping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ucsd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ultrase.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/vskin.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/watch.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/watch.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/witrace.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/witrace.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication.html" afterDir="false" />
-    </list>
+    <list default="true" id="5e20d9f0-7471-455d-a1f0-9f263c373e0e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,12 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="26ea2c13-d294-429f-82e1-6e852b81c282" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2nHqO9aw8RPOYwlX6GAfCiENr3o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,7 +23,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,15 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728640314856</updated>
       <workItem from="1728640316055" duration="44000" />
-      <workItem from="1728733777306" duration="127000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
