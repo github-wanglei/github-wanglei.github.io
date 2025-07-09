@@ -65,7 +65,6 @@ redirect_from:
 -  Jinpeng Song, Haipeng Dai, Shuyu Shi, <span style="color:blue">Lei Wang</span>,Haoran Wan, ZhizhengYang, Fu Xiao, and Guihai Chen.HeadTracker: Fine-grained Head Orientation Tracking with a Head-mounted Ultrasound Device.WASA 2022, Best Paper Award.(<span style="color:red">CCF-C</span>) 
 
 <span id="honors-and-awards"></span>
-
 # 🎖 Honors and Awards
 - <span style="color:red">[2024]</span> 🏆 First Prize of Science and Technology Award of Jiangsu Provincial Computer Society
 - <span style="color:red">[2024]</span> 🏆 Jiangsu Provincial Association for Science and Technology Young Scientists
