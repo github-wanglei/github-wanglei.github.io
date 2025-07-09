@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "#about-me"
 
-  - title: "Projects "
-    url: "#-projects "
+  - title: "Projects"
+    url: "#projects"
 
-  - title: " Publication"
-    url: "#- Publication"
+  - title: "Publication"
+    url: "#publication"
 
   - title: "Honors and Awards"
-    url: "#-honors-and-awards"
+    url: "#honors-and-awards"
 
   - title: "Teaching"
-    url: "#-teaching"
+    url: "#teaching"
 
- - title: " Oral Presentation"
-    url: "#- oral presentation"
+  - title: "Oral Presentation"
+    url: "#oral-presentation"

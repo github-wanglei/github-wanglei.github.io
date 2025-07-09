@@ -1,25 +1,16 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-
+# 指定 GitHub Pages 版本，这样和 GitHub Pages 环境保持一致
 gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
+# 如果你想本地使用 Jekyll 的原生版本（不建议，因为和 GitHub Pages 会不一致）
+# gem "jekyll", "~> 4.3"
 
-# gem "jekyll"
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
+  # 常用的插件，按需启用
+  gem "jekyll-feed"         # RSS 订阅
+  gem "jekyll-sitemap"      # 生成 sitemap.xml
+  gem "hawkins"             # 生成博客 RSS/Atom feed，增强
+  # 如果需要归档功能可以取消下面的注释
   # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
 end

@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Lei Wang (汪磊)"
 description              : "Associate Professor"
-repository               : "myz0718/cubernet.github.io"
+repository               : "github-wanglei/github-wanglei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Cubernet"
+  github           : "github-wanglei"
   google_plus      :
   keybase          :
   instagram        :
