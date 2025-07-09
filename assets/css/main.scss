@@ -107,3 +107,6 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+h1, h2, h3, h4, h5, h6, .page__content [id] {
+    scroll-margin-top: 80px; /* 你导航栏的高度，可以按需要调整 */
+}
