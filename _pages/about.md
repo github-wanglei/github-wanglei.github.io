@@ -80,4 +80,4 @@ redirect_from:
 # Oral Presentation
 - SECON'18, Hong Kong; UbiComp'18, Singapore; UbiComp'21, Online Presentation; UbiComp'22, Online Presentation; UbiComp'23, Cancun; Mobisys'23, Helsinki
 - CCF YOCSEF'22 Xiamen Technology Forum - Invited Speaker for Roundtable Discussion
-- Embedded Intelligence Conference '23, Shanghai, Invited Speaker
+- Embedded Intelligence Conference'23, Shanghai, Invited Speaker
