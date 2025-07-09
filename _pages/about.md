@@ -64,6 +64,7 @@ redirect_from:
 -  <span style="color:blue">Lei Wang</span>,Ke Sun, Haipeng Dai, Alex X. Liu, Xiaoyu Wang.WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signal.IEEE SECON 2018, Pages: 1-9, Jun. 2018. (<span style="color:red">CCF-B</span>)   
 -  Jinpeng Song, Haipeng Dai, Shuyu Shi, <span style="color:blue">Lei Wang</span>,Haoran Wan, ZhizhengYang, Fu Xiao, and Guihai Chen.HeadTracker: Fine-grained Head Orientation Tracking with a Head-mounted Ultrasound Device.WASA 2022, Best Paper Award.(<span style="color:red">CCF-C</span>) 
 
+<span id="honors-and-awards"></span>
 # 🎖 Honors and Awards
 - <span style="color:red">[2024]</span> 🏆 First Prize of Science and Technology Award of Jiangsu Provincial Computer Society
 - <span style="color:red">[2024]</span> 🏆 Jiangsu Provincial Association for Science and Technology Young Scientists
@@ -73,6 +74,7 @@ redirect_from:
 - <span style="color:red">[2022]</span> 🏆 Young Distinguished Professor, Soochow University
 - <span style="color:red">[2018]</span> 🏆 National Scholarship for Studying Abroad,China Scholarship Council
 
+<span id="teaching"></span>
 # 👨‍💻 Teaching
 - Java Programming (Fundamental Course of AI Major), Soochow University, Spring 2023, Fall 2023, Fall 2024, 54 class hours, Lecturer
 - Algorithm Design and Analysis (Fundamental Course of Data Science and Big Data Technology Major), Soochow University, Spring 2024, Spring 2025, 72 class hours, Lecturer
