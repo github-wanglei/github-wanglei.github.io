@@ -19,11 +19,11 @@
           {% if site.description %}
           <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
           {% endif %}
+          {% if author.employer %}
+          <li>{{ author.employer }}</li>
+          {% endif %}
           {% if author.location %}
           <li>📍 {{ author.location }}</li>
-          {% endif %}
-          {% if author.employer %}
-          <li>🎓 {{ author.employer }}</li>
           {% endif %}
           {% if author.uri %}
           <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
