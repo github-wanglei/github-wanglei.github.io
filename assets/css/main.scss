@@ -108,5 +108,10 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 h1, h2, h3, h4, h5, h6, .page__content [id] {
-    scroll-margin-top: 80px; /* 你导航栏的高度，可以按需要调整 */
+    scroll-margin-top: 80px; /* Navigation bar height, adjust as needed */
+}
+.author__bio {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.3;
 }

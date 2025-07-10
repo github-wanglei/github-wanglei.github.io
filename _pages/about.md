@@ -42,11 +42,11 @@ redirect_from:
 >   如有兴趣，请联系我，并将上述材料发送至邮箱沟通！
 
 #   Projects 
-- NSFC Projects (General Program): Research on Ultrasound-based Sensing Technology for Heartbeat and Key Physiological Indicators, 2025.1-2028.12, PI, CNY 500K.
-- NSFC Projects (Youth Program): Research on Key Technology of Low Delay and High-precision Measurement based on Ultrasonic Signal, 2022.1-2024.12, PI, CNY 300K.
--Research Project of Suzhou Aiyu Cognitive Intelligence Technology Co., Ltd.: Instruction Understanding Based on Large Language Model Multi-Agent Collaboration, 2025.6-2026.6, PI, CNY 100K.
-- Jiangsu Provincial University General Project: Research on Long-Distance High-Precision Ultrasonic Distance Measurement Technology and Applications, 2023.7-2025.7, PI, CNY 30K.
-- Baidu Foundation Project of Peking University: Automated transferable deep learning modeling and its novel applications, 2020.01-2021.12, CNY 2000K, Independently undertake project funds: CNY 280K;
+- NSFC Projects (General Program): Research on Ultrasound-based Sensing Technology for Heartbeat and Key Physiological Indicators, 2025.1-2028.12,<span style="font-weight: bold;">PI</span>, CNY 500K.
+- NSFC Projects (Youth Program): Research on Key Technology of Low Delay and High-precision Measurement based on Ultrasonic Signal, 2022.1-2024.12, <span style="font-weight: bold;">PI</span>, CNY 300K.
+- Research Project of Suzhou Aiyu Cognitive Intelligence Technology Co., Ltd.: Instruction Understanding Based on Large Language Model Multi-Agent Collaboration, 2025.6-2026.6,<span style="font-weight: bold;">PI</span>, CNY 100K.
+- Jiangsu Provincial University General Project: Research on Long-Distance High-Precision Ultrasonic Distance Measurement Technology and Applications, 2023.7-2025.7,<span style="font-weight: bold;">PI</span>, CNY 30K.
+- Baidu Foundation Project of Peking University: Automated transferable deep learning modeling and its novel applications, 2020.01-2021.12, CNY 2000K, <span style="font-weight: bold;">Independently undertake project funds: CNY 280K</span>；
 
 # 📝Publication
 -  <span style="color:blue">Lei Wang</span>, Tao Gu, Jingyu Li, Haipeng Dai, Chenren Xu, Daqing Zhang. Acoustic Sensing for Multi-User Heartbeat Monitoring Using Dualforming. IEEE TMC 2025.(<span style="color:red">CCF-A</span>)   
@@ -63,7 +63,7 @@ redirect_from:
 -  <span style="color:blue">Lei Wang</span>,Ke Sun, Haipeng Dai, Alex X. Liu, Xiaoyu Wang.WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signal.IEEE SECON 2018, Pages: 1-9, Jun. 2018. (<span style="color:red">CCF-B</span>)   
 -  Jinpeng Song,Haipeng Dai,Shuyu Shi,<span style="color:blue">Lei Wang</span>,Haoran Wan, ZhizhengYang, Fu Xiao, and Guihai Chen.HeadTracker: Fine-grained Head Orientation Tracking with a Head-mounted Ultrasound Device.WASA 2022, Best Paper Award.(<span style="color:red">CCF-C</span>) 
 -  Guodong Liu,<span style="color:blue">Lei Wang</span>,Minjun Jiang, Qianran Qiao, Keran Li, Haipeng Dai, Guihai Chen.mmMPS: LM-Assisted Acoustic Eavesdropping in Multi-Speaker Scenarios via Commercial mmWave Radar.(<span style="color:red">ACM UbiComp 2025, (CCF-A)(Major Revision)</span>)
--  Haipeng Dai, Lei Wang, Junlong Chen, Haoran Wan, Fu Xiao, Xianjun Deng, Guihai Chen.Fine-grained Head Orientation Tracking Using Head-Mounted Acoustic Devices.(<span style="color:red">IEEE TMC 2025, (CCF-A)</span>)
+-  Haipeng Dai,<span style="color:blue">Lei Wang</span>,Junlong Chen, Haoran Wan, Fu Xiao, Xianjun Deng, Guihai Chen.Fine-grained Head Orientation Tracking Using Head-Mounted Acoustic Devices.(<span style="color:red">IEEE TMC 2025, (CCF-A)</span>)
 -  Keran Li, Haipeng Dai, Wei Wang, Junlong Chen, Jiliang Wang, Shuai Tong, Meng Li, <span style="color:blue">Lei Wang</span>,Haoran Wang , Guihai Chen.
 RoLEX: A LoRa-based Rotation Speed Measurement System for Ubiquitous Long-distance Monitoring Applications (<span style="color:red">IEEE TMC 2025, (CCF-A)</span>)
 
