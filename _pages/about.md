@@ -18,7 +18,7 @@ redirect_from:
 
 **Research**:I am a Young Distinguished Professor at Soochow University. My research focuses on mobile computing, wireless sensing, and pervasive intelligence. I have published over 20 papers, including 12 as first author (9 in CCF A, 3 in CCF B), in venues such as MobiSys, UbiComp, and IEEE TMC. My work has received the UbiComp’22 Distinguished Paper Award, WASA’22 Best Paper Award, and the 2022 ACM Rising Star Award (Nanjing Chapter). I serve as Associate Editor for UbiComp/IMWUT and as TPC member, chair, or reviewer for conferences and journals including ICDCS, COCOON, ICA3PP, WASA, CHI, IEEE TWC, and ACM TOSN.
 
-**Previously**:I received my Ph.D. in Computer Science from Nanjing University in 2020, advised by Prof. Wei Wang and Prof. Haipeng Dai. From 2020 to 2022, I was a postdoctoral fellow at Peking University under Prof. Daqing Zhang (IEEE Fellow), where I also collaborated with Huawei and Baidu on research with real-world deployments.
+**Previously**:I received my Ph.D. in Computer Science from Nanjing University in 2020. From 2020 to 2022, I was a postdoctoral fellow at Peking University. I also collaborated with Huawei and Baidu on research with real-world deployments.
 > - 📌 **We welcome undergraduate/graduate students, post-docs, research assistants and visiting interns/scholars.**  
 >   Please drop me an email if you are interested in our group.
 > 
@@ -62,10 +62,6 @@ redirect_from:
 -  <span style="color:blue">Lei Wang</span>, Kang Huang, Ke Sun, Wei Wang, Chen Tian, Lei Xie,  Qing Gu. Unlock With Your Heart: Heartbeat-based Authentication on Commercial Mobile Phones. ACM UbiComp 2018,Volume: 2, Issue: 3, Pages: 1-22, Sep. 2018. (<span style="color:red">CCF-A</span>)   
 -  <span style="color:blue">Lei Wang</span>,Ke Sun, Haipeng Dai, Alex X. Liu, Xiaoyu Wang.WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signal.IEEE SECON 2018, Pages: 1-9, Jun. 2018. (<span style="color:red">CCF-B</span>)   
 -  Jinpeng Song,Haipeng Dai,Shuyu Shi,<span style="color:blue">Lei Wang</span>,Haoran Wan, ZhizhengYang, Fu Xiao, and Guihai Chen.HeadTracker: Fine-grained Head Orientation Tracking with a Head-mounted Ultrasound Device.WASA 2022, Best Paper Award.(<span style="color:red">CCF-C</span>) 
--  Guodong Liu,<span style="color:blue">Lei Wang</span>,Minjun Jiang, Qianran Qiao, Keran Li, Haipeng Dai, Guihai Chen.mmMPS: LM-Assisted Acoustic Eavesdropping in Multi-Speaker Scenarios via Commercial mmWave Radar.(<span style="color:red">ACM UbiComp 2025, (CCF-A)(Major Revision)</span>)
--  Haipeng Dai,<span style="color:blue">Lei Wang</span>,Junlong Chen, Haoran Wan, Fu Xiao, Xianjun Deng, Guihai Chen.Fine-grained Head Orientation Tracking Using Head-Mounted Acoustic Devices.(<span style="color:red">IEEE TMC 2025, (CCF-A)</span>)
--  Keran Li, Haipeng Dai, Wei Wang, Junlong Chen, Jiliang Wang, Shuai Tong, Meng Li, <span style="color:blue">Lei Wang</span>,Haoran Wang , Guihai Chen.
-RoLEX: A LoRa-based Rotation Speed Measurement System for Ubiquitous Long-distance Monitoring Applications (<span style="color:red">IEEE TMC 2025, (CCF-A)</span>)
 
 # 🎖 Honors and Awards {#honors-and-awards}
 - <span style="color:red">[2024]</span> 🏆 Young Talent of Science and Technology Lift Program, Jiangsu Association for Science and Technology
